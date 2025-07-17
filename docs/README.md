@@ -13,4 +13,7 @@ Test Case      | Пример тест-кейса           | https://github.com
 Checklist      | Чек-лист для регресса       | https://github.com/Arhuba/QA-Project/blob/main/docs/Checklist.pdf
 
 Анализ GET-за- | Исследование                | https://github.com/Arhuba/QA-Project/blob/main/docs/fiddler-analysis.md 
-проса в Fiddler|
+проса в Fiddler|                             |
+
+Анализ POST-за-| Исследование                | https://github.com/Arhuba/QA-Project/blob/main/docs/fiddler-post-analysis.md 
+проса в Fiddler|                             |
