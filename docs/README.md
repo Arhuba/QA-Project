@@ -8,12 +8,12 @@
 
 | №  | Артефакт               | Формат | Ссылка                                                       | Описание                                 |
 |----|------------------------|--------|--------------------------------------------------------------|------------------------------------------|
-| 1  | Test Plan              | PDF    | [test-plan.pdf](./test-plan.pdf)                             | План тестирования                        |
-| 2  | Test Case              | PDF    | [test-case.pdf](./test-case.pdf)                             | Описание шагов по тестированию           |
-| 3  | Checklist              | XLSX   | [checklist.xlsx](./checklist.xlsx)                           | Проверочный список                       |
-| 4  | Bug Report             | PDF    | [bug-report.pdf](./bug-report.pdf)                           | Доклад об ошибке                         |
-| 5  | API Test: Postman/Curl | MD     | [postman-curl-api-testing.md](./postman-curl-api-testing.md)  | Проверка API запросов                   |
-| 6  | Fiddler Capture        | MD     | [fiddler-http-traffic.md](./fiddler-http-traffic.md)         | Перехват HTTP-запросов через Fiddler     |
+| 1  | Test Plan              | PDF    | [Test-plan.pdf](https://github.com/Arhuba/QA-Project/blob/main/docs/Test%20Plan.pdf)                             | План тестирования                        |
+| 2  | Test Case              | PDF    | [Test-case.pdf](https://github.com/Arhuba/QA-Project/blob/main/docs/Test%20Case.pdf)                             | Описание шагов по тестированию           |
+| 3  | Checklist              | XLSX   | [Checklist.pdf](https://github.com/Arhuba/QA-Project/blob/main/docs/Checklist.pdf)                           | Проверочный список                       |
+| 4  | Bug Report             | PDF    | [Bug-report.pdf](https://github.com/Arhuba/QA-Project/blob/main/docs/BR-01.pdf)                           | Доклад об ошибке                         |
+| 5  | API Test: Postman/Curl | MD     | [Postman-Curl-api-testing.md](https://github.com/Arhuba/QA-Project/blob/main/docs/postman-curl-api-testing.md)  | Проверка API запросов                   |
+| 6  | Fiddler Capture        | MD     | [Fiddler-http-traffic.md](https://github.com/Arhuba/QA-Project/blob/main/docs/fiddler-post-analysis.md)         | Перехват HTTP-запросов через Fiddler     |
 
 ---
 
