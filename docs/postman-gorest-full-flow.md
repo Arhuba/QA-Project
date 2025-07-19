@@ -39,4 +39,6 @@
 ```
 - Screenshot: [DELETE.png](https://github.com/Arhuba/QA-Project/blob/main/docs/img/postman-gorest-full-flow.png)
 
+---
 
+Все тесты прошли успешно (PASS), общее время выполнения: ~2 сек (1s 197ms).
