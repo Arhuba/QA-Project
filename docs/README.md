@@ -14,7 +14,7 @@
 | 4  | Bug Report             | PDF    | [Bug-report.pdf](https://github.com/Arhuba/QA-Project/blob/main/docs/BR-01.pdf)                           | Доклад об ошибке                         |
 | 5  | API Test: Postman/Curl | MD     | [Postman-Curl-api-testing.md](https://github.com/Arhuba/QA-Project/blob/main/docs/postman-curl-api-testing.md)  | Проверка API запросов                   |
 | 6  | Fiddler Capture        | MD     | [Fiddler-http-traffic.md](https://github.com/Arhuba/QA-Project/blob/main/docs/fiddler-post-analysis.md)         | Перехват HTTP-запросов через Fiddler     |
-| 7  | GoRest Full Flow Runner Results | PNG | ![Runner.png] (https://github.com/Arhuba/QA-Project/blob/main/docs/img/postman-gorest-full-flow.png) | Снимок экрана результатов Runner |
+| 7  | GoRest Full Flow Runner Results | PNG | [Runner.png](https://github.com/Arhuba/QA-Project/blob/main/docs/img/postman-gorest-full-flow.png) | Снимок экрана результатов Runner |
 
 
 ---

@@ -11,7 +11,7 @@
 
  pm.test("Status 201", () => pm.response.to.have.status(201));
 ```
-- Screenshot: ![POST.png] (https://github.com/Arhuba/QA-Project/blob/main/docs/img/postman-post-runner.png)
+- Screenshot: [POST.png](https://github.com/Arhuba/QA-Project/blob/main/docs/img/postman-post-runner.png)
 
 ---
 
@@ -24,7 +24,7 @@
 
  pm.test("Status 200", () => pm.response.to.have.status(200));
 ```
-- Screenshot: ![GET.png] (https://github.com/Arhuba/QA-Project/blob/main/docs/img/postman-get-runner.png)
+- Screenshot: [GET.png](https://github.com/Arhuba/QA-Project/blob/main/docs/img/postman-get-runner.png)
 
 ---
 
@@ -37,6 +37,6 @@
 
  pm.test("Status 204", () => pm.response.to.have.status(204));
 ```
-- Screenshot: ![DELETE.png] (https://github.com/Arhuba/QA-Project/blob/main/docs/img/postman-gorest-full-flow.png)
+- Screenshot: [DELETE.png](https://github.com/Arhuba/QA-Project/blob/main/docs/img/postman-gorest-full-flow.png)
 
 
